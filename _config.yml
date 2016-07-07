@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: cwokral
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.466094394447282
-layout_spectrum: 0.9615854281000793
+layout_spectrum: 0.05531915
