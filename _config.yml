@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.2247742
   brandStrength: 0.6817490856628865
-  lightness: 1
+  rhythmicContrast: 0.4676905
   brandColors:
     - '#0C0F18'
     - '#F3FFFF'
     - '#7F817C'
     - '#36555A'
     - '#A5BFE0'
-  rhythmicContrast: 0.4676905
+  lightness: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: cwokral
 favicon: null
+name: cwokral
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.466094394447282
-layout_spectrum: 0.05531915
+layout_spectrum: 1
