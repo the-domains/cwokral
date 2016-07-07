@@ -1,29 +1,41 @@
-name: cwokral
-favicon: null
-layout_spectrum: 0.9615854281000793
-typography_spectrum: 0.46609439444728196
 title: Exploring The Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2247742
+  brandStrength: 0.6817490856628865
+  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.6817490856628865
-  lightness: 0.034501319751143456
-  saturation: 0.22477420885115862
-  rhythmicContrast: 0.46769046247936785
-purpose: []
+  rhythmicContrast: 0.4676905
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: cwokral
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.466094394447282
+layout_spectrum: 0.9615854281000793
