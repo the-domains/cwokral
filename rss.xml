@@ -4,8 +4,15 @@
         <description><![CDATA[Exploring The Grid]]></description>
         <link>https://thegrid.ai/cwokral/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 14:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 14:01:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cwokral/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing of Stuff I write.]]></title>
+            <description><![CDATA[<article><h1>Testing of Stuff I write.</h1><p>Here’s a test post to see what this is all about.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec012213-28fe-4191-b50f-b9db042260d5.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec012213-28fe-4191-b50f-b9db042260d5.jpg</link>
+            <guid isPermaLink="false">b75b5903-217e-449f-87af-a50f6dbeca3f</guid>
+            <pubDate>Tue, 12 Jul 2016 14:01:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Summer's Day in the Park]]></title>
             <description><![CDATA[<article><h1>A Summer's Day in the Park</h1><p>It's a jolly holiday with Mary. Mary makes the world go round...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/325187869d753e091dc626b2ed37c861/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F388cdce9-6af3-4a34-bf37-d4ed5c370957.jpg&x=0&y=0"></article>]]></description>
