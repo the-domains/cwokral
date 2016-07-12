@@ -4,8 +4,15 @@
         <description><![CDATA[Exploring The Grid]]></description>
         <link>https://thegrid.ai/cwokral/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 18:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 13:55:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cwokral/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Give a dog a bone]]></title>
+            <description><![CDATA[<article><h1>Give a dog a bone</h1><p>Good boy Stevie. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40172d75c963b892da99bb44d72be38c/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F991a7cb8-2aeb-4d25-8a8b-0adfbe050ffd.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/991a7cb8-2aeb-4d25-8a8b-0adfbe050ffd.jpg</link>
+            <guid isPermaLink="false">c6b53500-1814-4cbb-91a7-ea1c5637f3f1</guid>
+            <pubDate>Tue, 12 Jul 2016 13:55:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Dog Days of Summer]]></title>
             <description><![CDATA[<article><h1>The Dog Days of Summer</h1><p>Summer in Berlin</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/75a03536c2cf294b9212af6b49ad639d/croprotate.jpg?cropheight=2448&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F15d7847b-299c-4a9f-8bb0-cd3dae34ce43.jpg&x=0&y=0"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/388cdce9-6af3-4a34-bf37-d4ed5c370957.jpg</link>
             <guid isPermaLink="false">d79c6580-0822-4ced-bfd1-5b6088099bd7</guid>
             <pubDate>Thu, 07 Jul 2016 18:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Give a dog a bone]]></title>
-            <description><![CDATA[<article><h1>Give a dog a bone</h1><p>Good boy Stevie. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/40172d75c963b892da99bb44d72be38c/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F991a7cb8-2aeb-4d25-8a8b-0adfbe050ffd.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/991a7cb8-2aeb-4d25-8a8b-0adfbe050ffd.jpg</link>
-            <guid isPermaLink="false">c6b53500-1814-4cbb-91a7-ea1c5637f3f1</guid>
-            <pubDate>Thu, 07 Jul 2016 18:01:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
